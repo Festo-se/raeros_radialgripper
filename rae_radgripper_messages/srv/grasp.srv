@@ -1,0 +1,4 @@
+int64 speed
+int64 current
+---
+bool success
