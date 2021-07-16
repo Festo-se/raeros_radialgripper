@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="rae_radgripper_server" name="rae_radgripper_server" type="rae_radgripper_server.py" output="screen" respawn="false"/>
+</launch>
